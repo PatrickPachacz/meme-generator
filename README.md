@@ -22,6 +22,10 @@ The challenge
 
     Write top and bottom texts on memes via React form
     Get a random meme image calling APIs
+    
+Screenshot
+<img src="memescreenshot.png">
+
 
 Getting Started with Create React App
 
