@@ -24,8 +24,8 @@ This is a solution to the Meme Generator project on Scrimba. Scrimba helps you i
 Get a random meme image calling APIs</p>
     
 <h3>Screenshot</h3>
-<img src="memescreenshot.png" />
-<img src="screenshot1.png" />
+<img src="screenshots/memescreenshot.png" />
+<img src="screenshots/screenshot1.png" />
 
 
 <h3>Getting Started with Create React App</h3>
