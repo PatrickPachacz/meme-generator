@@ -45,7 +45,7 @@ This project was bootstrapped with Create React App.
 
 <h3>What I learned</h3>
 
--   React basis like:
+-   React basis like
 -   Event listeners
 -   State   
 -   Conditional rendering    
